@@ -1,0 +1,397 @@
+    1  hello
+    2  echo hii
+    3  git status
+    4  git init
+    5  git add file
+    6  git add text
+    7  git status
+    8  git add text
+    9  echo text
+   10  echo text>>hiii
+   11  git status text
+   12  ls
+   13  Documents
+   14  git init
+   15  ll
+   16  cd desktop
+   17  cd new/
+   18  ll
+   19  cd..
+   20  cd ..
+   21  ll
+   22  git init
+   23  git clone https://github.com/pradeepkachare/MyFirst.git
+   24  ls -a
+   25  cd MyFirst/
+   26  ls
+   27  pwd
+   28  ls -a
+   29  vi Hello_World 
+   30  vi sample.txt 
+   31  git status
+   32  git add file1
+   33  git status
+   34  git add file1.txt
+   35  git status
+   36  git status
+   37  git add file1.txt 
+   38  git status
+   39  ls
+   40  git gui
+   41  ls
+   42  vi file1.txt 
+   43  vi file1.txt 
+   44  git status
+   45  git add file1.txt
+   46  git status
+   47  git commit -m 'added new file'
+   48  ls
+   49  git gui
+   50  q!
+   51  exit
+   52  ls
+   53  cd
+   54  ls
+   55  cd MyFirst/
+   56  ls
+   57  git status
+   58  git add file2.txt
+   59  git status
+   60  git gui
+   61  logout
+   62  exit
+   63  cd MyFirst/
+   64  ls
+   65  git origin
+   66  git
+   67  ls
+   68  cd MyFirst/
+   69  ls
+   70  got init
+   71  git init
+   72  man clone
+   73  git man
+   74  manual
+   75  git --man
+   76  git --man clone
+   77  git -- man clone
+   78  git
+   79  clone
+   80  clone
+   81  git clone
+   82  ls
+   83  git clone file1.txt
+   84  cd
+   85  ls
+   86  ls -lrt
+   87  cd MyFirst/
+   88  ls-lrt
+   89  ls -lrt
+   90  git clone Hello_World 
+   91  mkdir new_dir
+   92  ls -lrt
+   93  git status
+   94  git status
+   95  vi file1.txt 
+   96  git status
+   97  git add file1.txt
+   98  git status
+   99  cd new_dir/
+  100  git clone
+  101  git --mirror
+  102  git clone -l --MyF
+  103  git clone --l 
+  104  cd ..
+  105  git clone new_dir/
+  106  git MyFirst
+  107  git lga
+  108  git branch
+  109  git
+  110  branch
+  111  git branch new_branch
+  112  ls -lrt
+  113  branch new_dir/
+  114  git branch new_branch 
+  115  git list branch
+  116  git gui
+  117  git checkout new_branch 
+  118  ls -lrt
+  119  git checkout
+  120  git checkout master 
+  121  ls -lrt
+  122  git tag
+  123  git push
+  124  git pull
+  125  git push
+  126  git pull
+  127  ls -lrt
+  128  cd new_dir/
+  129  ls
+  130  ls -lrt
+  131  cd ..
+  132  cd..
+  133  ls -lrt
+  134  touch file3.txt
+  135  vi file3.txt 
+  136  git status
+  137  ls -lrt
+  138  git add file3.txt 
+  139  git status
+  140  git push
+  141  git push
+  142  touch file4.txt
+  143  vi file4.txt 
+  144  git status
+  145  git add file4.txt 
+  146  git pull
+  147  git push
+  148  git remote
+  149  git origin
+  150  git checkout new_branch 
+  151  git push
+  152  git checkout master 
+  153  ls -lrt
+  154  git clone https://github.com/pradeepkachare/MyFirst.git
+  155  ls
+  156  pwd
+  157  git -d MyFirst/My
+  158  git -D MyFirst/My
+  159  git push
+  160  git pull https://github.com/pradeepkachare/MyFirst.git
+  161  ls -lrt
+  162  cd MyFirst/
+  163  ls -lrt
+  164  git branch
+  165  cd ..
+  166  git branch
+  167  ls -lrt
+  168  git rm new_dir/
+  169  git rmdir new_dir/
+  170  rm new_dir/
+  171  rmdir new_dir/
+  172  ls -lrtr
+  173  git status
+  174  git add MyFirst/
+  175  git status
+  176  git status
+  177  ls -lrt
+  178  git push
+  179  cd ..
+  180  cd../..
+  181  ls
+  182  ls -lrt
+  183  cat hiii 
+  184  vi hiii 
+  185  find MyFirst/
+  186  find -r MyFirst/
+  187  find -R MyFirst/
+  188  cd MyFirst/
+  189  ls -lrt
+  190  ls -a
+  191  cat .git/
+  192  cd .git/
+  193  ls -lrt
+  194  vi invi index 
+  195  vi index 
+  196  cd objects/
+  197  ls -lrt
+  198  cd pack/
+  199  ls -lrt
+  200  cd a9
+  201  cd a9
+  202  cd ../../..
+  203  ls -a
+  204  cd ./
+  205  ls -lrt
+  206  cd ../
+  207  ls -lrt
+  208  ls -a
+  209  cd ..
+  210  cd /MyFirst
+  211  cd Pradeep/MyFirst/
+  212  ls -a
+  213  ls -lart
+  214  cd .git/
+  215  ls -lrt
+  216  vi config 
+  217  cd logs/
+  218  ls -lrt
+  219  vi HEAD 
+  220  cd ..
+  221  cd../..
+  222  cd ../..
+  223  ls
+  224  cd Mf
+  225  cd MyFirst/
+  226  ls -lrt
+  227  cat file5 
+  228  cat file5.txt
+  229  cat hii >file5
+  230  touch file5
+  231  echo hello >>file5
+  232  cat file5
+  233  git status
+  234  git add file5
+  235  git status
+  236  vi file5
+  237  git status
+  238  git commit
+  239  git status
+  240  git add file5
+  241  git status
+  242  ls -lrt
+  243  git commit
+  244  git commit
+  245  git push 
+  246  git branch
+  247  git checkout new_branch 
+  248  ls -lrt
+  249  git commit 
+  250  cd ..
+  251  ls -lrt
+  252  cd MyFirst/
+  253  ls -lrt
+  254  git checkout master 
+  255  ls -lrt
+  256  git delete new_branh
+  257  git delete new_branch
+  258  git -d new_branch
+  259  git -d new_branch
+  260  git -D new_branch
+  261  git branch -d new_branch 
+  262  git branch
+  263  git commit
+  264  git log
+  265  1
+  266  git view changes file5
+  267  git diff file5
+  268  git diff file1.txt
+  269  git status
+  270  ls -lrt
+  271  git log
+  272  !
+  273  git diff
+  274  git diff file2.txt
+  275  git -l code
+  276  git log show dode
+  277  git log -- online -p
+  278  git log
+  279  !
+  280  git log –- pretty = oneline
+  281  git log –-
+  282  git log
+  283  git branch
+  284  git branch new
+  285  git branch
+  286  git checkout new
+  287  ls -lrt
+  288  git commit -am "new branch is added"
+  289  ls -lrt
+  290  vi file5
+  291  git status
+  292  git add file5
+  293  git status
+  294  git commit
+  295  git push 
+  296  git checkout master 
+  297  git push
+  298  git commit 
+  299  git checkout new 
+  300  ls -lrt
+  301  vi file5 
+  302  git history
+  303  history
+  304  git commit
+  305  git checkout master 
+  306  git commit
+  307  touch pradeep.txt
+  308  git status
+  309  git add pradeep.txt 
+  310  git status
+  311  git commit -am "pradeep file is added"
+  312  git push 
+  313  git remote branch
+  314  git remote
+  315  git remote origin
+  316  git remote add new_branch https://github.com/pradeepkachare/MyFirst.git
+  317  git remote add -t new_branch https://github.com/pradeepkachare/MyFirst.git
+  318  git remote add -f https://github.com/pradeepkachare/MyFirst.git
+  319  git remote -f https://github.com/pradeepkachare/MyFirst.git
+  320  git remote --fetch https://github.com/pradeepkachare/MyFirst.git
+  321  ls -lrtr
+  322  cd MyFirst/
+  323  ls -lrtr
+  324  git branch
+  325  git branch -d new 
+  326  git branch -D new 
+  327  git branch new
+  328  git branch
+  329  git diff
+  330  git diff file1 file2.txt
+  331  git diff file1.txt file2.txt
+  332  git status
+  333  git log
+  334  ls -lrt
+  335  git diff 
+  336  vi file1.txt 
+  337  git diff
+  338  git status
+  339  git add file1.txt 
+  340  git status
+  341  git stash
+  342  git stash list
+  343  git stash pop
+  344  vi file1.txt 
+  345  git status
+  346  git add file1.txt 
+  347  git status
+  348  git stash list
+  349  git log --oneline
+  350  git log --oneline -3
+  351  git log since='10/26/2018'
+  352  git log since='25/10/2018'
+  353  git log --since='25/10/2018'
+  354  history
+  355  git store
+  356  git stage
+  357  ls -lrt
+  358  vi file1.txt 
+  359  git stage
+  360  git status
+  361  git diff
+  362  git diff file1.txt
+  363  git stash file1.txtAirtel2123
+  364  git stash file1.txt
+  365  git stash list
+  366  git stash
+  367  git stash list
+  368  git status
+  369  git diff file1.txt
+  370  git stash list
+  371  git checkout
+  372  git stash list
+  373  git retrieve
+  374  git stash pop - stash@{0}
+  375  git stash pop  stash@{0}
+  376  vi file1.txt 
+  377  git status
+  378  git add file1.txt 
+  379  git status
+  380  vi file1.txt 
+  381  git stash list
+  382  git log
+  383  git commit -am "to check the can we amend commit message"
+  384  git log
+  385  git commit --amend "amendment done in last commit message "
+  386  git commit --amend -m "amendment done in last commit message "
+  387  git log
+  388  git commit -amend -m "amendment 2 done in last commit message "
+  389  git --amend -m "amendment 2 done in last commit message "
+  390  git reflog
+  391  git reflog
+  392  git logref
+  393  git reflog -verbose
+  394  git reflog - verbose
+  395  history
+  396  history >>history .txt
+  397  history >>history.txt
